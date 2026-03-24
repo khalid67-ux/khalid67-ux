@@ -10,6 +10,5 @@ I am proficient in multiple programming languages such as C, C++, Java, Python, 
 
 ### Contact
 
-LinkedIn: https://www.linkedin.com/in/md-khalid-hasan-157aa0388/  
-Gmail: mdkd806124@gmail.com  
-GitHub: https://github.com/khalid67-ux
+Gmail: mdkd806124@gmail.com   
+LinkedIn: https://www.linkedin.com/in/md-khalid-hasan-157aa0388/
