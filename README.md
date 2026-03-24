@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**khalid67-ux/khalid67-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Md. Khalid Hasan
 
-Here are some ideas to get you started:
+I am a 3rd-year Information and Communication Engineering (ICE) student at BUP. I am passionate about Web Development and Artificial Intelligence. I enjoy learning new technologies and building real-world projects to improve my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+
+I am proficient in multiple programming languages such as C, C++, Java, Python, and PHP. I also have experience in Web technologies including HTML, CSS, and JavaScript. Additionally, I have knowledge of database management using MySQL.
+
+
+### Contact
+
+LinkedIn: https://www.linkedin.com/in/md-khalid-hasan-157aa0388/  
+Gmail: mdkd806124@gmail.com  
+GitHub: https://github.com/khalid67-ux
